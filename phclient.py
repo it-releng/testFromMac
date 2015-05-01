@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
 #AMAR 123456
-=======
-#AMAR 123789
->>>>>>> Stashed changes
+
 import socket, select, string, sys
 
 def prompt() :
