@@ -1,4 +1,4 @@
-#AMAR 123
+#AMAR 123456
 import socket, select, string, sys
 
 def prompt() :
